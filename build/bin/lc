@@ -1,2 +1,0 @@
-#!/bin/sh
-exec /home/rw/Documents/centos/build/bin/mono $MONO_OPTIONS /home/rw/Documents/centos/build/lib/mono/4.5/lc.exe "$@"
