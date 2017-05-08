@@ -1,0 +1,9 @@
+prefix=/Users/RW/Documents/mono-comp/build
+exec_prefix=${prefix}
+libdir=/Users/RW/Documents/mono-comp/build/lib
+sourcesdir=${libdir}/monodoc/sources
+
+Name: Monodoc
+Description: Monodoc - Mono Documentation Tools
+Version: 4.8.1
+Libs: /r:${prefix}/lib/mono/monodoc/monodoc.dll 

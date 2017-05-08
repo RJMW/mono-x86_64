@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Users/RW/Documents/mono-comp/build/bin/mono $MONO_OPTIONS /Users/RW/Documents/mono-comp/build/lib/mono/mono-configuration-crypto/4.5/mono-configuration-crypto.exe "$@"

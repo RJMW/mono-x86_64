@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Users/RW/Documents/mono-comp/build/bin/pedump $MONO_OPTIONS --verify metadata,code "$@"

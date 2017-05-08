@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Users/RW/Documents/mono-comp/build/bin/mono $MONO_OPTIONS /Users/RW/Documents/mono-comp/build/lib/mono/4.5/installvst.exe "$@"
